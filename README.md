@@ -1,4 +1,2 @@
-#shell basics
-Nataka kukula mchele to git thaga
-Shell tutaua, We ngoja tu
-umbwaaaa
+Preparation for the project simple shell and everything we have done in the process. 
+Might as well be called preparation Repo.
